@@ -2,7 +2,8 @@
 
 florist landing page! Built using Bootstrap, CSS, HTML, and a touch of JavaScript, this page combines elegance with functionality.
 
-Key features include:
+# Key features include:
+
 ✅ A clean and responsive design, perfect for showcasing fresh flowers and gift arrangements.
 
 ✅ Easy navigation with sections for shop categories, new arrivals, services, and blog posts.
