@@ -4,8 +4,11 @@ florist landing page! Built using Bootstrap, CSS, HTML, and a touch of JavaScrip
 
 Key features include:
 ✅ A clean and responsive design, perfect for showcasing fresh flowers and gift arrangements.
+
 ✅ Easy navigation with sections for shop categories, new arrivals, services, and blog posts.
+
 ✅ A visually appealing layout with vibrant imagery to captivate users at first glance.
+
 ✅ Newsletter integration to keep customers engaged and connected.
 
 This design ensures a seamless experience for users while highlighting the beauty of flowers. 
